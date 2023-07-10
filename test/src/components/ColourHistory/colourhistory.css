@@ -1,0 +1,11 @@
+.history_title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.colours {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
